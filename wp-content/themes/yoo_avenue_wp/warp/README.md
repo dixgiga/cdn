@@ -1,11 +1,31 @@
 # Warp Theme Framework #
 
-- Version: 7.2.8
-- Date: July 2014
+- Version: 7.3.1
+- Date: September 2014
 - Author: YOOtheme GmbH
 - Website: <http://www.yootheme.com/warp>
 
 ## Changelog
+
+    WIP
+    ^ Updated UIkit to 2.11.1
+
+    7.3.1
+    # Fixed input fields height in Woocommerce (WP)
+
+    7.3.0
+    ^ Updated UIkit to 2.10.0
+    ^ Updated Bootstrap fix (J3)
+    ^ Updated Bootstrap layer (J3)
+    ^ Updated LESS compiler to 1.7.5
+    ^ Added Woocommerce support (WP)
+    ^ Added modules front-end edit (J)
+    ^ Added system output on offline page (J)
+    ^ Replaced all input[type=submit] with button[type="submit"]
+    ^ Changed title-rendering to wp_title with custom filter (WP)
+    # Fixed comments reply button (WP)
+    # Fixed widget assignments for custom post types (WP)
+    - Removed search close button and loading spinner
 
     7.2.8
     # Fixed pagination page-button issue
